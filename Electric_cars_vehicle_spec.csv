@@ -1,0 +1,37 @@
+VehicleType,Make,BodyType,Model,StartingPrice(INR Lakhs),NoofSeats,MaxTorque(Nm),MaxPower(BHP),Range(km/charge),BatteryCapacity(kwh),ChargingTime(Mins),GroundClearance(mm),BootSpace(Liters),FastCharging
+Car,Tata,SUV,Tata Punch EV,10.99,5,190Nm,120.69 - 80.46bhp,315 - 421 km/charge,25 - 35kwh,50Mins,190 mm,366 Liters,
+Car,Tata,SUV,Tata Nexon EV,14.74,5,215Nm,127.39 - 142.68bhp,325 - 465 km,30 - 40.5 kwh,6H -AC-7.2 kW (10-100%),190 mm,350 Liters,Yes
+Car,Kia,SUV,Kia EV6,60.95,5,605Nm,225.86 - 320.55bhp,708 km,77.4 kwh,18 Min (0-80%),,,Yes
+Car,Tata,Hatchback,Tata Tiago EV,8.69,5,114Nm,60.34 - 73.75bhp,250 - 315 km/charge,19.2 - 24 kwh,58 min| DC-25 kW(10-80%),,240 Liters,Yes
+Car,Mahindra,SUV,Mahindra XUV400 EV,15.49,5,310Nm,147.51 - 149.55bhp,375 - 456 kms,34.5 - 39.4 kwh,6H 30 Min-AC-7.2 kW (0-100%),,,Yes
+Car,MG Motor,Hatchback,MG Comet EV,7.98,4,110Nm,41.42bhp,230 km,17.3 kwh,7 H,,,
+Car,BMW,Sedan,BMW i7,213,5,1015Nm,536.4 - 650.39bhp,560 - 625 km,101.7 - 101.7kwh,5.5 H,,500 Liters,Yes
+Car,Tata,Sedan,Tata Tigor EV,12.49,5,170Nm,73.75bhp,315 km/charge,26 kwh,8.5 H,172 mm,,Yes
+Car,BMW,SUV,BMW iX,121,5,630Nm,321.84bhp,425km,71 kw,7H 15min-(0-100%),,500 Liters,Yes
+Car,Hyundai,SUV,Hyundai Kona Electric,23.84,5,395Nm,134.10bhp,452 km,39.2 kwh,7H,,,Yes
+Car,Lotus,SUV,Lotus Eletre,255,5,710Nm,603bhp,500 - 600 km/charge,112 - 112 kwh,6H,194 mm,,Yes
+Car,Rolls Royce,Luxury,Rolls Royce Spectre,750,4,900Nm,576.63bhp,530km,102 kwh,5.5H,,,
+Car,MG Motor,SUV,MG ZS EV,22.88,5,280Nm,174.33bhp,461km,50.3 - 50.3 kwh,8.5 To 9 Hours,,448 Liters,Yes
+Car,BMW,Sedan,BMW i4,72.5,5,430Nm,335.25bhp,483 - 590 km/charge,70.2 - 83.9 kwh,31 Min-DC-200kW (0-80%),,470 Liters,
+Car,Citroen,Hatchback,Citroen eC3,11.61,5,143Nm,56.21bhp,320 km/charge,29.2,10.5H,,315 Liters,
+Car,Mercedes Benz,Sedan,Mercedes-Benz EQS,162,5,855Nm,750.97bhp,857 km,107.8 kwh,6.25H,,,
+Car,BYD,MUV,BYD E6,29.15,5,180Nm,93.87bhp,415-520km,71.7 kwh,12H-AC-6.6kW-(0-100%),170 mm,580 Liters,Yes
+Car,Audi,SUV,Audi e-tron,102.16,5,664Nm,230 - 300kwbhp,264 - 484 km,71 - 95kwh,46.7 H,,660 Liters,
+Car,BYD,SUV,BYD Atto 3,33.99,5,310Nm,201.15bhp,521 km/charge,60.48 kwh,9 H,175 mm,440 Liters,Yes
+Car,Porsche,Luxury,Porsche Taycan,160.93,5,650Nm,321.84 - 616.87bhp,354 - 395–452km,79.2 - 93.4,4H ,,446 Liters,
+Car,PMV,Hatchback,PMV EaS E,4.79,2,50Nm,13.41bhp,160 km/charge,10kwh,4H,,,
+Car,Mercedes Benz,SUV,Mercedes-Benz EQB,74.5,7,390Nm,225.29bhp,423km,66.5kwh,7H,,1710 Liters,Yes
+Car,Jaguar,SUV,Jaguar I-Pace,125.6,5,696Nm,394.26bhp,470 km/charge,90 kw,8 H 30 Min - AC 11 kW (0-100%),174 mm,656 Liters,
+Car,Audi,Luxury,Audi e-tron GT,171.57,5,630Nm,522.99bhp,388-500km,93 kwh,9 Hours 30 Min -AC - 11 kW (5-80%),,405 Liters,Yes
+Car,Volvo,SUV,Volvo XC40 Recharge,57.9,5,660Nm,408bhp,418 km/charge,78 kw,28 Min - DC -150kW (10-80%),,414 Liters,Yes
+Car,Strom Motors,Hatchback,Strom Motors R3,4.5,2,90 Nm,20.11bhp,200 km/charge,,3 H,,300 Liters,
+Car,Audi,Luxury,Audi RS e-tron GT,195.29,5,830Nm,636.98bhp,401-481km,93 kwh,9H 30Min-AC-11 kW (5-80%),,405 Liters,Yes
+Car,MINI,Hatchback,MINI Cooper SE,53.5,4,270Nm@1000rpm,181.03bhp,270km,32.6 kwh,2H 30 min-AC-11kW (0-80%),,211 Liters,Yes
+Car,Hyundai,SUV,Hyundai IONIQ 5,45.95,5,350Nm,214.56bhp,631km,72.6 kwh,6H 55Min 11 kW AC,,,Yes
+Car,BMW,SUV,BMW iX1,66.9,5,494Nm,308.43bhp,417-440 kms,66.4 kwh,6h 30 Min AC 11 kW (0-100%),,500 Liters,Yes
+Car,Volvo,SUV,Volvo C40 Recharge,62.95,5,660Nm,402.30bhp,530 km/charge,78kwh,27Min (150 kW DC),,413 Liters,Yes
+Car,Mercedes Benz,SUV,Mercedes-Benz EQE SUV,139,5,858Nm,402.3bhp,550 km/charge,90.56 kwh,9.5H,,,Yes
+Car,Audi,SUV,Audi Q8 e-tron,114.73,5,664Nm,335.25 - 402.3bhp,491 - 582 km/charge,114 - 95kwh,,,505 Liters,
+Car,Pravaig,SUV,Pravaig DEFY,39.5,4,620Nm,402bhp,500 km/charge,90.9,,234 mm,680 Liters,Yes
+Car,Mercedes Benz,Sedan,Mercedes-Benz AMG EQS,245,5,,,580 km,107.8kwh,,,,Yes
+Car,Audi,Sedan,Audi Q8 Sportback e-tron,119.23,5,664Nm,335.25 - 402.3bhp,505 - 600 km/charge,114 - 95kwh,,,535 Liters,

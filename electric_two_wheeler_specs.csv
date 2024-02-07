@@ -1,0 +1,81 @@
+VehicleType,Make,Model,StartingPrice(INR Lakhs),Range(km/charge),BatteryCapacity(kwh),ChargingTime(Mins),Top Speed(km/Hr),KerbWeight(Kg),TyreType,GroundClearance(mm),FastCharging
+Bikes,Revolt Motors,Revolt RV400,1.17,150 - 80-150 km/charge,3.24 Kwh,4.5 Hr,85 km/Hr,108 Kg,Tubeless,215 mm,
+Bikes,Ultraviolette,Ultraviolette F77,3.8,206 - 307 km/charge,10.3 Kwh,4 Hr,152 km/Hr,207 Kg,Tubeless,160 mm,Yes
+Bikes,Tork,Tork Kratos,1.67,180 km/charge,,6-7 Hr,105 km/Hr,140 Kg,Tubeless,165 mm,No
+Bikes,Oben,Oben Rorr,1.5,200 km/charge,,2 Hr,100 km/Hr,,Tubeless,230 mm,Yes
+Bikes,Komaki,Komaki Ranger,1.86,200-250 km/charge,,6 Hr,,,Tubeless,,
+Bikes,One Electric Motorcycles,One Electric Motorcycles Kridn,1.35,110 km/charge,,,95 km/Hr,,,,
+Bikes,Matter EV,Matter EV Aera,1.74,125 km/charge,,5 Hr,,,,,Yes
+Bikes,SVITCH BIKE,SVITCH BIKE CSR 762,1.9,160 km/charge,3.6 Kwh,,110 km/Hr,155 Kg,Tubeless,,
+Bikes,Komaki,Komaki XGT CAT 2.0,1.02,110 - 90-100 km/charge,,8 Hr,,,Tubeless,,
+Bikes,Kabira Mobility,Kabira Mobility KM 3000,1.63,120 km/charge,,6.5 Hr,100 km/Hr,112 Kg,Tubeless,170 mm,Yes
+Bikes,Orxa Energies,Orxa Energies Mantis,3.6,221 km/charge,,,135 km/Hr,182 Kg,Tubeless,180 mm,Yes
+Bikes,Atumobile,Atumobile AtumVader,1.08,100 km/charge,,3.5 Hr,65 km/Hr,100 Kg,Tube,230 mm,
+Bikes,Odysse Electric,Odysse Electric Evoqis,1.71,,,6 Hr,80 km/Hr,,Tubeless,170 mm,
+Bikes,Atumobile,Atumobile Atum Version 1.0,0.7,100 km/charge,,3-4 Hr,25 km/Hr,51 Kg,,280 mm,
+Bikes,Power EV,Power EV P-Sport,1.58,150 - 210 km/charge,,6 Hr,85 km/Hr,,Tubeless,,Yes
+Bikes,PURE EV,PURE EV EcoDryft,1.2,171 - 80-130 km/charge,,3 Hr,75 km/Hr,101 Kg,Tubeless,200 mm,
+Bikes,PURE EV,PURE EV eTryst 350,1.5,90-140 km/charge,3.5 Kwh,6 Hr,85 km/Hr,120 Kg,Tubeless,180 mm,
+Bikes,ABZO,ABZO VS01,1.8,180 km/charge,,,,,Tubeless,158 mm,Yes
+Bikes,Kabira Mobility,Kabira Mobility KM 4000,1.66,150 km/charge,,6.5 Hr,120 km/Hr,,Tubeless,200 mm,Yes
+Bikes,Srivaru Motors,Srivaru Motors Prana,2.25,126 - 225 km/charge,,6.5 Hr,123 km/Hr,165 Kg,Tubeless,145 mm,
+Bikes,Hop Electric,Hop Electric Oxo,1.43,60 - 70-150 km/charge,,4.45-5 Hr,95 km/Hr,144 Kg,Tubeless,180 mm,Yes
+Bikes,ADMS,ADMS Boxer,1.25,100-150 km/charge,2.19 Kwh,,,,,,
+Bikes,Joy e-bike,Joy e-bike Beast,2.42,110 km/charge,5.18 Kwh,9 Hr,90 km/Hr,115 Kg,Tubeless,160 mm,
+Bikes,Komaki,Komaki MX3,1.15,80-90 km/charge,,5 Hr,,,Tubeless,,
+Bikes,Joy e-bike,Joy e-bike Monster,1.1,75 km/charge,1.66 Kwh,4-4.5 Hr,25 km/Hr,93 Kg,Tubeless,110 mm,
+Bikes,ADMS,ADMS Bravo,1.85,,3.24 Kwh,,,,,,
+Bikes,Birla e-bike,Birla e-bike V6,1.6,,1.56 Kwh,,,,Tubeless,,
+Bikes,Joy e-bike,Joy e-bike Hurricane,2.33,80 km/charge,4.75 Kwh,8 Hr,90 km/Hr,,Tubeless,185 mm,
+Bikes,Aeroride,Aeroride Bravo,1.59,90-110 km/charge,,,80 km/Hr,,Tubeless,190 mm,
+Bikes,Cyborg,Cyborg Bob-e,0.95,110 km/charge,2.88 Kwh,4-5 Hr,85 km/Hr,,Tubeless,260 mm,
+Bikes,Odysse Electric,Odysse Electric Vader,1.42,,3.7 Kwh,4 Hr,85 km/Hr,128 Kg,,110 mm,Yes
+Bikes,Komaki,Komaki XGT Classic,1.09,80-90 km/charge,,5 Hr,,,,,
+Scooters,Ola Electric,Ola S1 Pro,1.4,181 - 195 km/charge,4 Kwh,6.5 Hr,120 km/Hr,125 Kg,Tubeless,165 mm,Yes
+Scooters,TVS,TVS iQube Electric,1.17,100 - 145 km/charge,3.4 Kwh,,78 km/Hr,118.8 Kg,Tubeless,157 mm,Yes
+Scooters,Bajaj,Bajaj Chetak,1.15,113 - 127 km/charge,3.2 Kwh,4.3 Hr,73 km/Hr,134 Kg,Tubeless,160 mm,
+Scooters,Ather Energy,Ather 450X,1.26,111 - 150 km/charge,3.7 Kwh,5.4 Hr,90 km/Hr,111.6 Kg,Tubeless,170 mm,Yes
+Scooters,Vida,Vida V1 Pro,1.46,110 km/charge,3.94 Kwh,6 Hr,80 km/Hr,125 Kg,Tubeless,155 mm,Yes
+Scooters,Hero Electric,Hero Electric Optima,1.07,135 - 89 km/charge,,6.5 Hr,55 km/Hr,102 Kg,,165 mm,
+Scooters,Ola Electric,Ola S1 X,0.9,151 - 95 km/charge,3 Kwh,7.4 Hr,90 km/Hr,,Tubeless,,Yes
+Scooters,Simple Energy,Simple Energy One,1.45,212 km/charge,5 Kwh,1 Hr,105 km/Hr,134 Kg,Tubeless,164.5 mm,Yes
+Scooters,Ola Electric,Ola S1 Air,1.2,151 km/charge,3 Kwh,5 Hr,90 km/Hr,99 Kg,Tubeless,165 mm,Yes
+Scooters,River,River Indie,1.25,120 km/charge,,,90 km/Hr,,,165 mm,Yes
+Scooters,Ather Energy,Ather 450S,0.98,115 km/charge,2.9 Kwh,8.36 Hr,90 km/Hr,108 Kg,Tubeless,170 mm,Yes
+Scooters,Bounce,Bounce Infinity E1+,0.9,85 km/charge,1.9 Kwh,4 Hr,65 km/Hr,94 Kg,Tubeless,155 mm,
+Scooters,Yulu,Yulu Wynn,0.56,,,,25 km/Hr,,,,
+Scooters,Ampere,Ampere Magnus EX,1.05,121 km/charge,2.29 Kwh,6-7 Hr,50 km/Hr,82 Kg,,147 mm,
+Scooters,TVS,TVS X Electric Scooter,2.5,80 km/charge,4.44 Kwh,4 Hr,105 km/Hr,,Tubeless,175 mm,Yes
+Scooters,Kinetic Green,Kinetic Green Zing,0.72,100 - 70 km/charge,,3-4 Hr,45 km/Hr,,Tubeless,160 mm,
+Scooters,AMO Electric,AMO Electric Jaunty-3W,0.79,75 km/charge,,6 Hr,25 km/Hr,62 Kg,Tubeless,150 mm,Yes
+Scooters,Ather Energy,Ather 450 Apex,1.89,157 km/charge,3.7 Kwh,5.45 Hr,100 km/Hr,111.6 Kg,Tubeless,170 mm,Yes
+Scooters,Okinawa,Okinawa PraisePro,1.0,81 km/charge,,2-3 Hr,56 km/Hr,,Tubeless,175 mm,
+Scooters,Hero Electric,Hero Electric Atria,0.78,85 km/charge,,4-5 Hr,25 km/Hr,,Tubeless,,
+Scooters,Simple Energy,Simple Energy Dot One,1.0,151 km/charge,,,105 km/Hr,126 Kg,Tubeless,164.5 mm,Yes
+Scooters,Okaya,Okaya Faast,1.25,120 - 140-160 km/charge,4.4 Kwh,4-6 Hr,65 km/Hr,,Tubeless,195 mm,Yes
+Scooters,Ozotec,Ozotec Bheem,0.66,,,,65 km/Hr,,,,
+Scooters,Hero Electric,Hero Electric Flash,0.6,85 km/charge,,4-5 Hr,25 km/Hr,,Tube,,
+Scooters,Kinetic Green,Kinetic Green Zoom,0.75,100 - 70 km/charge,,3-4 Hr,40 km/Hr,,Tubeless,160 mm,
+Scooters,BGauss,BGauss C12i,1.02,135 - 85 km/charge,,6-7 Hr,50 km/Hr,110 Kg,Tubeless,155 mm,
+Scooters,Hero Electric,Hero Electric NYX,0.74,100 - 130 km/charge,,4-5 Hr,42 km/Hr,87 Kg,Tube,141 mm,
+Scooters,BattRE Electric Mobility,BattRE Electric Mobility Storie,1.02,132 km/charge,3.12 Kwh,5 Hr,,105 Kg,Tubeless,200 mm,
+Scooters,PURE EV,PURE EV Epluto 7G,0.9,90-120 km/charge,,4 Hr,60 km/Hr,79 Kg,Tubeless,,
+Scooters,Komaki,Komaki XGT KM,0.57,130 - 85-90 km/charge,,8 Hr,,,Tubeless,,
+Scooters,BattRE Electric Mobility,BattRE Electric Mobility LoEV,0.6,60-150 km/charge,,2.5 Hr,,60 Kg,Tubeless,160 mm,Yes
+Scooters,Komaki,Komaki XGT X One,0.48,100 - 85-100 km/charge,,8 Hr,,,Tubeless,,
+Scooters,Benling India,Benling India Aura,1.22,120 km/charge,,4 Hr,65 km/Hr,,Tubeless,165 mm,Yes
+Scooters,Zelio,Zelio Gracyi,0.57,60-120 km/charge,,4-5 Hr,,118 Kg,Tubeless,,
+Scooters,HCD India,HCD India NPS Cargo,0.81,70 km/charge,,3 Hr,25 km/Hr,80 Kg,Tubeless,,Yes
+Scooters,Sokudo,Sokudo Acute,0.95,100 - 150 km/charge,3.1 Kwh,4 Hr,65 km/Hr,,Tubeless,175 mm,Yes
+Scooters,Ozotec,Ozotec Flio,1.14,,,6 Hr,,,Tubeless,160 mm,Yes
+Scooters,BGauss,BGauss D15,1.25,115 km/charge,,5.5 Hr,60 km/Hr,109 Kg,Tubeless,175 mm,Yes
+Scooters,Avon,Avon E Scoot,0.45,65 km/charge,0.96 Kwh,6-8 Hr,24 km/Hr,,Tubeless,,
+Scooters,Hop Electric,Hop Electric LEO,0.84,125 - 70 km/charge,2 Kwh,3 Hr,52 km/Hr,80 Kg,Tubeless,160 mm,
+Scooters,BNC Motors,BNC Motors Challenger,1.18,90 km/charge,,3-4 Hr,75 km/Hr,,Tubeless,258 mm,Yes
+Scooters,PURE EV,PURE EV Epluto 7G Max,1.15,150-201 km/charge,,,60 km/Hr,,Tubeless,,
+Scooters,ADMS,ADMS Mantra,0.98,60-100 km/charge,,4-8 Hr,,,,,
+Scooters,Okinawa,Okinawa Dual 100,1.19,110-120 km/charge,,5-6 Hr,25 km/Hr,,,150 mm,
+Scooters,Deltic,Deltic Drixx,0.58,70-100 km/charge,1.58 Kwh,5-6 Hr,25 km/Hr,57 Kg,,190 mm,
+Scooters,Zelio,Zelio Eeva,0.55,60-120 km/charge,,4-5 Hr,,118 Kg,Tubeless,,
+Scooters,AMO Electric,AMO Electric Jaunty,0.6,60 - 80-90 km/charge,,6 Hr,25 km/Hr,62 Kg,Tubeless,150 mm,Yes
+Scooters,Revamp Moto,Revamp Moto RM Buddie 25,0.7,70 km/charge,,3 Hr,25 km/Hr,60-65 Kg,Tubeless,165 mm,
